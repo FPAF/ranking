@@ -1,5 +1,5 @@
 <template>
-  {{ props }}
+ 
  
 
   <div v-if="store.listaSelecionada == null" class="lista-container">
